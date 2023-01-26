@@ -15,15 +15,15 @@
   
 - **模型结构图**：
 
-  <img src="Structure-image\ViT Structure.png" alt="ViT Structure" style="zoom:50%;" />
+  <img src="Structure-image-ViT\ViT Structure.png" alt="ViT Structure" style="zoom:50%;" />
 
 - **模型不同变体配置参数**：
 
-  <img src="Structure-image\ViT Structure para.png" alt="ViT Structure" style="zoom:50%;" />
+  <img src="Structure-image-ViT\ViT Structure para.png" alt="ViT Structure" style="zoom:50%;" />
 
 - **Vision Transformer Base (ViT-B/16)详细结构举例**：来自于[Vision Transformer详解](https://blog.csdn.net/qq_37541097/article/details/118242600)
 
-  <img src="Structure-image\ViT-B-16.png" alt="ViT Structure" style="zoom:50%;" />
+  <img src="Structure-image-ViT\ViT-B-16.png" alt="ViT Structure" style="zoom:50%;" />
 
 ## 实例
 

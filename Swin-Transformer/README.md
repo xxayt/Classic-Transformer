@@ -18,11 +18,11 @@
 
 - **模型结构图**：
 
-  <img src="Structure-image\SwinT Structure.png" alt="SwinT Structure" style="zoom:50%;" />
+  <img src="Structure-image-SwinT\SwinT Structure.png" alt="SwinT Structure" style="zoom:50%;" />
 
 - **模型不同变体配置参数**：
 
-  <img src="Structure-image\SwinT Structure para.png" alt="SwinT Structure para" style="zoom:50%;" />
+  <img src="Structure-image-SwinT\SwinT Structure para.png" alt="SwinT Structure para" style="zoom:50%;" />
 
   
 
